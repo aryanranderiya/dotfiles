@@ -33,8 +33,7 @@ plugins=(
     ngrok # This plugin adds completion for the ngrok CLI.
     docker-compose # Adds auto-completion and aliases for docker-compose.
     gh  # Adds completion and aliases for GitHub's CLI tool
-    mise
-
+    mise # https://github.com/g-plane/pnpm-shell-completion?tab=readme-ov-file#oh-my-zsh
 )
 
 source $ZSH/oh-my-zsh.sh
