@@ -42,6 +42,11 @@ source $ZSH/oh-my-zsh.sh
 # Aliases
 alias cd="z"
 alias ls="eza"
+alias ping="gping"
+alias curl="curlie"
+alias ps="procs"
+alias fd="find"
+alias df="duf"
 
 # Commands
 fastfetch
